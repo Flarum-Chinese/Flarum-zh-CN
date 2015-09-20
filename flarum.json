@@ -3,7 +3,7 @@
     "title": "中文简体",
     "description": "Flarum 简体中文语言包",
     "keywords": ["localization"],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": {
         "name": "justjavac",
         "email": "justjavac@gmail.com",
